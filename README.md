@@ -14,10 +14,16 @@ The approach is to understand the existing workflow, configure a useful system i
 
 | Project | The problem and contribution | Explore |
 | --- | --- | --- |
-| **Interactive Call Flow** | My original sales workbook workflow, rebuilt as a configurable local app. Discovery selections become offer-specific reasons, features, and benefits; users edit questions, transitions, and offers. | [App](https://jordan-interactive-call-flow.pages.dev/) · [Source](https://github.com/dkm90x/interactive-call-flow) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/interactive-call-flow) |
-| **Muse Mac Connector** | An unofficial authenticated bridge between a cloud assistant and Mac actions. Built before Muse’s official Mac app; now obsolete and retained as historical integration work. | [Source](https://github.com/dkm90x/muse-mac-connector) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/muse-mac-connector) |
-| **Sales Coaching Systems** | Spreadsheet-based call capture, callbacks, behavior review, and coaching actions. The public showcase uses synthetic records; private employee/customer workbooks are excluded. | [Showcase](https://github.com/dkm90x/sales-coaching-systems) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/sales-coaching-systems) |
-| **BeatLab** | A searchable local beat library with playback and favorites, indexing existing folders without moving or uploading the audio. | [Browser app](https://beatlab.jordanmcdonley.com/) · [Source](https://github.com/dkm90x/beatlab) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/beatlab) |
+| **Interactive Call Flow** | My original sales workbook workflow, rebuilt as a configurable local app. Discovery selections become offer-specific reasons, features, and benefits. | [App](https://jordan-interactive-call-flow.pages.dev/) · [Source](https://github.com/dkm90x/interactive-call-flow) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/interactive-call-flow) |
+| **Sniper Suite** | Four focused Chrome extensions for tags, business leads, reviews, and ad research. Final payment verification and publication are being completed separately. | [Case study](https://portfolio.jordanmcdonley.com/case-studies/sniper-suite) · [Design notes](docs/SNIPER-SUITE.md) · [Support](https://jordan-sniper-suite.pages.dev/) |
+| **Acura Atlas** | A searchable, branching sales reference with seven process areas and 196 indexed entries, connecting process stages, follow-up, and coaching guidance. Independent reference, not official dealership policy. | [App](https://atlas.acura.jordanmcdonley.com/) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/acura-atlas) · [Design notes](docs/ACURA-ATLAS.md) |
+| **BeatLab** | A searchable local beat library with playback and favorites, indexing existing folders without moving or uploading audio. | [Browser app](https://beatlab.jordanmcdonley.com/) · [Source](https://github.com/dkm90x/beatlab) · [Case study](https://portfolio.jordanmcdonley.com/case-studies/beatlab) |
+
+### More work
+
+- [Muse Mac Connector](https://github.com/dkm90x/muse-mac-connector): historical authenticated Mac integration, built before Muse’s official Mac app and now obsolete. [Case study](https://portfolio.jordanmcdonley.com/case-studies/muse-mac-connector).
+- [Game Night Board](https://github.com/dkm90x/game-night-board): a focused event-attendance and scheduling tool.
+- [Sales Coaching Systems](https://github.com/dkm90x/sales-coaching-systems): call capture, callbacks, behavior review, and coaching actions, demonstrated with synthetic records. [Case study](https://portfolio.jordanmcdonley.com/case-studies/sales-coaching-systems).
 
 ## How I work
 
